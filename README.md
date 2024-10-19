@@ -6,6 +6,15 @@ One of Fushuma’s commitments is supporting a diverse and succeeding decentrali
 
 This checklist will guide you through the necessary steps to prepare your fundraising on Fushuma. By following this checklist, you will ensure that your project meets Fushuma's standards of transparency and efficiency.
 
+## Submitting a Fundraising
+
+To submit fundraising, create a new issue in this repository using the template below.
+
+---
+
+# Fundraising Checklist
+
+
 ## Tokenomics
 
 - Why do you need your own token for this product?
